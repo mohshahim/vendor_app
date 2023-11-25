@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "518973364014",
+    "project_id": "tharacart-marketplace",
+    "storage_bucket": "tharacart-marketplace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518973364014:android:a04ba4a8e7f36b1b4fccbf",
+        "android_client_info": {
+          "package_name": "com.example.tharademo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518973364014-bj66dc4hjch1colthl5lj0sbdonl3f75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnJstjslC9c_XP6DVJmhr69iC06aKcBnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518973364014-bj66dc4hjch1colthl5lj0sbdonl3f75.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "518973364014-tr8osqukps0jftsbs76a8te56rt8ce7h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.firstlogicmetalab.tharacartMarketplace"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518973364014:android:e82e19f76c5b953e4fccbf",
+        "android_client_info": {
+          "package_name": "com.firstlogicmetalab.tharacart_marketplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518973364014-vfhcrpujrf9ci9k6qtg691qbi3murniq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firstlogicmetalab.tharacart_marketplace",
+            "certificate_hash": "a01d9851e3ab1f3e94822c2aa1972ae5055d6e3f"
+          }
+        },
+        {
+          "client_id": "518973364014-bj66dc4hjch1colthl5lj0sbdonl3f75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnJstjslC9c_XP6DVJmhr69iC06aKcBnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518973364014-bj66dc4hjch1colthl5lj0sbdonl3f75.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "518973364014-tr8osqukps0jftsbs76a8te56rt8ce7h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.firstlogicmetalab.tharacartMarketplace"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
